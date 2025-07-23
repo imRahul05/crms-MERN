@@ -4,6 +4,11 @@ A comprehensive web application for managing employee referrals built with React
 
 ![CRMS Dashboard](https://via.placeholder.com/800x400?text=CRMS+Dashboard)
 
+## API Documentation
+
+You can view the full API documentation here:  
+👉 [Postman API Docs](https://documenter.getpostman.com/view/34815726/2sB34fm182)
+
 ## Features
 
 ### User Authentication
@@ -38,11 +43,11 @@ A comprehensive web application for managing employee referrals built with React
 - **Notifications**: React-Toastify
 - **Build Tool**: Vite
 
-![Login](assets/login.png)
-![Register](assets/register.png)
-![Admin Dashboard](assets/admin_dashboard.png)
-![Profile Page](assets/profilePage.png)
-![Referral Form](assets/User_referral_form.png)
+![Login](src/assets/login.png)
+![Register](src/assets/register.png)
+![Admin Dashboard](src/assets/admin_dashboard.png)
+![Profile Page](src/assets/profilePage.png)
+![Referral Form](src/assets/User_referral_form.png)
 
 ## Project Structure
 
